@@ -11,13 +11,13 @@ https://potara.net/plugin/code-scanner-for-search/
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/code-scanner-for-search/releases/download/v1.0.0/code-scanner-for-search-ver1.0.0.plugin.zip  
+https://github.com/potaracom/code-scanner-for-search/releases/download/v1.1.0/code-scanner-for-search-ver1.1.0.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
 
 30 日以降も利用する場合はご注文をお願いします。  
-[こちらのホームページ](https://dashboard.stores.jp/items/654406c68168c30eba91d5dd)で販売しています。
+[こちらのホームページ](https://potaracom.stores.jp/items/654406c68168c30eba91d5dd)で販売しています。
 
 ご注文後、ライセンス更新作業を行います。  
 （ライセンス更新作業は弊社環境での作業です）
@@ -27,4 +27,8 @@ https://github.com/potaracom/code-scanner-for-search/releases/download/v1.0.0/co
 
 # 更新情報
 
-- 2023/11/6 v1.0.0 リリース
+- 2023/11/17 v1.1.0  
+  内蔵カメラ、外部接続スキャナーを自動起動するオプション設定を追加  
+  固定の検索条件の設定機能を追加
+
+- 2023/11/6 v1.1.0
