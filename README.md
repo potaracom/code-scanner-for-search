@@ -11,7 +11,7 @@ https://potara.net/plugin/code-scanner-for-search/
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/code-scanner-for-search/releases/download/v1.1.1/code-scanner-for-search-ver1.1.1.plugin.zip  
+https://github.com/potaracom/code-scanner-for-search/releases/download/v1.2.0/code-scanner-for-search-ver1.2.0.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,9 @@ https://github.com/potaracom/code-scanner-for-search/releases/download/v1.1.1/co
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2023/12/5 v1.2.0  
+  連続で読み込み、一括更新するように修正
 
 - 2023/11/24 v1.1.1  
   ゲストスペースのモバイル画面で動作しない不具合を修正
